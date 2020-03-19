@@ -12,7 +12,7 @@ header('X-Robots-Tag: noindex, nofollow', true, 410);
 
 <body>
   <h1>Site has been removed</h1>
-  <p>If you need to access the staging sites, please contact the support team at <a href="mailto:support@itineris.co.uk">support@itineris.co.uk</a>.</p>
+  <p>If you need to access the sites, please contact the support team at <a href="mailto:support@itineris.co.uk">support@itineris.co.uk</a>.</p>
   <p>&copy;<?php echo date('Y'); ?> <a href="https://www.itineris.co.uk/">Itineris Limited</a> - All rights reserved.</p>
 </body>
 </html>
